@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation for setling the plantation of Virginia.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22364</idno>
+            <idno type="STC">STC 8775</idno>
+            <idno type="STC">ESTC S3517</idno>
+            <idno type="EEBO-CITATION">33150382</idno>
+            <idno type="OCLC">ocm 33150382</idno>
+            <idno type="VID">28576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28576)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation for setling the plantation of Virginia.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. M.DC.XXV [1625]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms without "C R" at top; imprint begins "Imprinted".</note>
+                  <note>"Giuen at Our Court at White-Hall, the thirteenth day of May, in the first yeere of Our Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tobacco industry --  Early works to 1800.</term>
+               <term>Monopolies --  Great Britain --  Early works to 1800.</term>
+               <term>Virginia --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:28576:1"/>
+            <head>
+               <figure>
+                  <head>HONI SOIT QVI MAL Y PENSE</head>
+               </figure>
+               <g ref="char:leaf">❧</g> By the King. <g ref="char:leaf">❧</g> A Proclamation for ſetling the Plantation of Virginia.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas the Colonie of <hi>
+                     <g ref="char:V">Ʋ</g>irginia,</hi> Planted by the hands of Our</hi> moſt deare Father of bleſſed memory, for the propagation of Chriſtian Religion, the increaſe of Trade, and the enlarging of his Royall Em<g ref="char:EOLhyphen"/>pire, hath not hitherto proſpered ſo happily, as was hoped and deſired, A great occaſion whereof his late Maieſty conceiued to be, for that the gouernment of that Colony was committed to the Company of <hi>Vir<g ref="char:EOLhyphen"/>ginia,</hi> encorporated of a multitude of perſons of ſeuerall diſpoſitions, amongſt whom the affaires of greateſt moment were, and muſt be ru<g ref="char:EOLhyphen"/>led by the greater number of Votes and Voyces; And therefore his late Maieſtie, out of His great Wiſedome, and depth of Iudgement, did deſire to reſume that popular gouernment, and accordingly the Letters Patents of that Incorporation, were by his Highneſſe direction in a Legall courſe queſtioned, and thereupon iudicially repealed, and adiudged to bee voyde; wherein his Maie<g ref="char:EOLhyphen"/>ſties ayme was onely, to reduce that gouernment into ſuch a right courſe, as might beſt agree with that forme which was held in the reſt of his Royall Monarchy, and was not intended by him, to take away, or impeach the particular Intereſt of any priuate Plantor, or Aduenturer, nor to alter the ſame, otherwiſe then ſhould be of neceſſity for the good of the publique: And wheras We continue the like care of thoſe Colonies and Plantatious, as Our late deare Father did, and vpon deliberate aduice and conſideration, are of the ſame Iudgement that Our ſaid Father was of, for the gouernment of that Colony of <hi>Virginia;</hi> Now leſt the apprehenſion of former perſonall differences, which haue heretofore happened (the reuiuing and continuing whereof Wee vtterly diſallow, and ſtrictly forbid) might diſtract the mindes of the Plantors and Aduenturers, or the opinion, that We would neglect thoſe Plantations, might diſcourage men to goe or ſend thither, &amp; ſo hinder the perfecting of that worke, wherin We hold the honor of Our deare Father deceaſed, and Our owne honour to be deeply engaged; We haue thought fit to declare, and by Our Royal Proclamation to publiſh Our owne Iudgement, and reſolution in theſe things, which by Gods aſſiſtance Wee purpoſe conſtantly to purſue. And therefore Wee doe by theſe preſents publiſh and declare to all Our louing Subiects, and to the whole world, that Wee hold thoſe Territories of <hi>Virginia</hi> and the <hi>Sommer-Ilands,</hi> as alſo that of <hi>New England,</hi> where Our Colonies are already plan<g ref="char:EOLhyphen"/>ted, &amp; within the limits &amp; bounds wherof, Our late deare Father, by His Letters Patents, vnder His great Seale of <hi>England,</hi> remaining of Record, hath giuen leaue and liberty to His Subiects to plant and inhabite, to be a part of Our Royall Empire, deſcended vpon Vs and vndoubtedly be<g ref="char:EOLhyphen"/>longing and appertaining vnto Vs; And that We hold Our ſelfe, aſwell bound by Our Regal of<g ref="char:EOLhyphen"/>fice, to protect, maintaine, and ſupport the ſame, and are ſo reſolued to doe, as any other part of Our Dominions:</p>
+            <p>And that Our full reſolution is, to the end that there may be one vniforme courſe of Gouern<g ref="char:EOLhyphen"/>ment, in, and through all Our whole Monarchie, That the Gouernment of the Colonie of <hi>Vir<g ref="char:EOLhyphen"/>ginia</hi>
+               <pb facs="tcp:28576:2"/> ſhall immediatly depend vpon Our Selfe, and not be committed to any Company or Cor<g ref="char:EOLhyphen"/>poration, to whom it may be proper to truſt matters of Trade and Commerce, but cannot bee fit or ſafe to communicate the ordering of State-affaires, be they of neuer ſo meane conſequence: And that therefore Wee haue determined, That Our Commiſſioners for thoſe Affaires, ſhall proceed according to the tenor of Our Commiſſion directed vnto them, vntill Wee ſhall declare Our further pleaſure therein. Neuertheleſſe We doe herby declare, That Wee are reſolued, with as much conuenient expedition, as Our Affaires of greater importance will giue leaue, to eſtabliſh a Councell, conſiſting of a few perſons of vnderſtanding and qualitie, to whom We will giue truſt for the immediate care of the Affaires of that Colony, and who ſhall be anſwerable to Vs for their proceedings, and in matters of greater moment, ſhall be ſubordinate and atten<g ref="char:EOLhyphen"/>dant vnto Our Priuie Councell heere; And that We will alſo eſtabliſh another Councell to be reſident in <hi>Virginia,</hi> who ſhall be ſubordinate to Our Councell here for that Colonie; and that at Our owne charge We will maintaine thoſe publique Officers and Miniſters, and that ſtrength of Men, Munition, and Fortification, as ſhall be fit and neceſſary for the defence of that Plan<g ref="char:EOLhyphen"/>tation, and will by any courſe that ſhall be deſired of Vs, ſettle and aſſure the particular rights and intereſts of euery Planter and Aduenturer, in any of thoſe Territories, which ſhall deſire the ſame, to giue them full ſatiſfaction for their quiet and aſſured enioying thereof.</p>
+            <p>And laſtly, whereas it is agreed on all ſides, that the Tobacco of thoſe plantations of <hi>Virginia</hi> and the <hi>Sommer Iſlands</hi> (which is the onely preſent meanes for their ſubſiſting) cannot be managed for the good of the Plantations, vnleſſe it be brought into one hand, whereby the forreigne To<g ref="char:EOLhyphen"/>bacco may be carefully kept out, and the Tobacco of thoſe Plantations may yeeld a certaine and ready price to the owners thereof; Wee doe hereby declare, That to auoid all differences and contrariety of opinions, which will hardly be reconciled amongſt the Planters and Aduenturers themſelues, We are reſolued to take the ſame into Our owne hands, and by Our ſeruants or Agents for Vs, to giue ſuch prices to the Planters and Aduenturers for the ſame, as may giue them reaſonable ſatiſfaction and encouragement; but of the maner thereof, Wee will determine hereafter at better leiſure: And when We ſhall haue concluded the ſame, We ſhall expect, that all Our louing Subiects will readily conforme themſelues thereunto.</p>
+            <p>And in the meane time, becauſe the importation and vſe of forreigne Tobacco, which is not of the growth of thoſe Plantations, or one of them, will viſibly &amp; aſſuredly vndermine and deſtroy thoſe Plantations, by taking away the meanes of their ſubſiſtence, We doe hereby ſtrictly charge and command, That Our late Proclamation, bearing date the ninth day of April laſt, intituled, <hi>(A Proclamation touching Tobacco)</hi> ſhall in all points and parts thereof, be duely and ſtrictly obſer<g ref="char:EOLhyphen"/>ued, vpon paine of Our high diſpleaſure, and ſuch further penalties and puniſhments, as by the ſayd Proclamation are to be inflicted vpon the offenders. And We doe hereby aduiſe all Our lo<g ref="char:EOLhyphen"/>uing Subiects, and all others whom it may concerne, not to aduenture the breach of our Royall Commandement in any of the premiſſes, We being fully reſolued, vpon no importunitie or inter<g ref="char:EOLhyphen"/>ceſſion whatſoeuer, to releaſe or remit the deſerued puniſhment of ſuch, as ſhall dare to offend a<g ref="char:EOLhyphen"/>gainſt the ſame, ſeeing We holde not Our Selfe onely, but Our people intereſted therein.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at White-Hall,</hi> 
+                  <date>
+                     <hi>the thirteenth day of May, in the firſt yeere of Our Reigne of Great Britaine, France, and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Bonham Norton, and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. ANNO DOM. M.DC.XXV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
